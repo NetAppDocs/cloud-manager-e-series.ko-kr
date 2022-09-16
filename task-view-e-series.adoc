@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: E-Series 시스템을 검색했으면 용량 배포, 볼륨 및 호스트에 대한 세부 정보를 볼 수 있습니다. 
+---
+= E-Series 시스템을 확인하십시오
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+E-Series 시스템을 검색했으면 용량 배포, 볼륨 및 호스트에 대한 세부 정보를 볼 수 있습니다.
+
+.단계
+. Canvas에서 보려는 E-Series 작업 환경의 이름을 두 번 클릭합니다.
+. E-Series 시스템에 대한 자세한 내용을 보려면 다음 탭을 선택하십시오.
++
+** * 개요 *: 시스템의 용량 분포(할당, 사용 가능 및 할당되지 않은 용량), 볼륨, 호스트 수 등에 대한 상세 정보 보기입니다.
++
+image:screenshot-overview.png["E-Series 작업 환경의 개요 탭 스크린샷"]
+
+** * 볼륨 *: 할당, RAID 레벨, 할당된 용량 등을 포함하여 시스템의 볼륨에 대한 세부 정보.
++
+image:screenshot-volumes.png["E-Series 작업 환경의 볼륨 탭 스크린샷"]
+
+** * 호스트 *: 스토리지 시스템의 볼륨에 입출력을 전송하는 호스트에 대한 세부 정보입니다.
++
+image:screenshot-hosts.png["E-Series 작업 환경의 호스트 탭 스크린샷"]
+
+
+
+
